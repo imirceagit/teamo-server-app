@@ -1,4 +1,4 @@
-package com.mient.teamo;
+package com.mient.teamolab;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;

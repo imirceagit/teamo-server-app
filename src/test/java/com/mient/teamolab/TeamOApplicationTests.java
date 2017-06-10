@@ -1,4 +1,4 @@
-package com.mient.teamo;
+package com.mient.teamolab;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
